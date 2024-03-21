@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@anup_rajendra_prasad/learnstorybook",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -75,6 +75,9 @@
     }
   },
   "resolutions": {
-    "jackspeak": "2.1.1"
-  }
+    "jackspeak": "2.3.5"
+  },
+  "description": "Storybook design systems tutorial",
+  "repository": "https://github.com/Anup-rajendra/design-system.git",
+  "author": "Anup-rajendra <anupsargur2@gmail.com>"
 }
